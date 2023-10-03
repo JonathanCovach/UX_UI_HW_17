@@ -1,0 +1,144 @@
+
+
+     /* HEADER */
+header{
+    width: 100%;
+    background-color: #002d5c;
+    display: inline-block;
+}
+
+.navmenu{
+    display: inline-block;
+    margin: 5px;
+    color: white;
+    margin-left: 200px;
+    margin-right: 55px;
+    
+}
+
+#homeimg{
+    height: 80px;
+    margin-right: 15px;
+    margin-left: 40px;
+    background-color: #002d5c;
+    display: block;
+}
+
+.nav{
+    display: inline-block;
+}
+
+.head-in-block{
+    display: inline-block;
+}
+
+.CTA{
+    margin-top: 100px;
+    text-align: center;
+    background-color: #006BA6;
+    height: 50px;
+    width: 825px;
+    margin-left: 350px;
+    border-radius: 9px;
+}
+p1{
+    color: #F9C22E;
+    font-size: 32px;
+}
+
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 25%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 720px;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container1 {
+    border-radius: 5px;
+    padding: 20px;
+    width: 900px;
+    margin-left: 515px;
+    margin-top: 100px;
+  }
+  .container2 {
+    border-radius: 5px;
+    padding: 20px;
+    width: 900px;
+    margin-left: 625px;
+  }
+
+  footer{
+    margin-top: 75px;
+    background-color: #0C6BA6;
+    width: 100%;
+    display: inline-block;
+  }
+  #footerlogo{
+    height: 80px;
+    display: inline-block;
+  }
+  
+  #lucysign{
+    height: 150px;
+    margin-top: 200px;
+    margin-bottom: 00px;
+    margin-left: 700px;
+  }
+
+  body{
+    background-color: #EEEDE7;
+  }
+
+  .contactButton{
+    height: 30px;
+    width: 90px;
+    background-color: #D90429;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-left: 1450px;
+    display: inline-block;
+  }
+
+  h1{
+    font-size: 14px;
+    color: white;
+    margin-left: 700px;
+  }
+
+  h2{
+    font-size: 14px;
+    color: white;
+    margin-left: 710px;
+    margin-bottom: 0 auto;
+  }
+
+  h3{
+    font-size: 14px;
+    color: white;
+    margin-left: 1450px;
+    margin-bottom: 0 auto;
+  }
